@@ -1,2 +1,4 @@
 print("hello git ")
 a = 'jay'
+def fn(a):
+	return 1 + a
